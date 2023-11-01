@@ -19,4 +19,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijhonathan&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=C-sharp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/C-sharp)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=JavaScript&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]((https://github.com/elijhonathan/JavaScript))
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=Exercicios-Curso-em-video&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/Exercicios-Curso-em-video)
+
