@@ -1,6 +1,4 @@
 # Eli Jhonathan
-
-## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eli-jhonathan-577a181a3/)
 
 ## Habilidades
