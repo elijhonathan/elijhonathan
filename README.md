@@ -35,4 +35,3 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=HDB_LogicaDeProgramacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/HDB_LogicaDeProgramacao)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=Ads2-IntroducaoAoDesenvolvimentoWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/Ads2-IntroducaoAoDesenvolvimentoWeb)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=C-sharp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/C-sharp)
-
