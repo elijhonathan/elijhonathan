@@ -1,8 +1,14 @@
 # Eli Jhonathan
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eli-jhonathan-577a181a3/)
 <a href="https://www.linkedin.com/in/eli-jhonathan-577a181a3/" target="_blank">
-<img width="50px" src="https://th.bing.com/th/id/R.ef2f3c0ea2d1116f00a5bc56b8c066ce?rik=GYaDoFewrbjMYA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f01%2fLogo-Linkedin.png&ehk=S4bpGdTYO0hvPM28u%2bFMX4ma7sBWXFdx85iEGZWSx1I%3d&risl=&pid=ImgRaw&r=0">
+<img width="100px" src="https://th.bing.com/th/id/R.ef2f3c0ea2d1116f00a5bc56b8c066ce?rik=GYaDoFewrbjMYA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f01%2fLogo-Linkedin.png&ehk=S4bpGdTYO0hvPM28u%2bFMX4ma7sBWXFdx85iEGZWSx1I%3d&risl=&pid=ImgRaw&r=0">
 </a>
+
+## Top Languages
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elijhonathan&layout=compact&bg_color=000&border_color=00FF00&title_color=A020F0&text_color=FF6347)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijhonathan&theme=highcontrast&bg_color=000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=A020F0&text_color=FF6347)
+
 
 ## Habilidades
 
@@ -53,26 +59,15 @@
 <span>
 <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
 
-</span>
+</span><br>
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elijhonathan&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Proximos Interesses
 <span>
-<img width="50px" src="https://www.senet.nl/wp-content/uploads/2021/03/NET_Logo.png">
-<img width="50px" src="https://www.senet.nl/wp-content/uploads/2021/03/NET_Logo.png">
+<img width="150px" src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png">
+<img width="100px" src="https://pngimg.com/uploads/php/php_PNG43.png">
 
 </span>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijhonathan&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=Ads2-AlgoritimosELogicaDeProgramacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/Ads2-AlgoritimosELogicaDeProgramacao)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=HDB_LogicaDeProgramacao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/HDB_LogicaDeProgramacao)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=Ads2-IntroducaoAoDesenvolvimentoWeb&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/Ads2-IntroducaoAoDesenvolvimentoWeb)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=elijhonathan&repo=C-sharp&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elijhonathan/C-sharp)
