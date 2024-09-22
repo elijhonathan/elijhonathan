@@ -53,7 +53,6 @@
 
 </span>
 
-
 ### Produtividade
 <span>
 <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
