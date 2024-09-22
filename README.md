@@ -57,13 +57,12 @@
 ### Produtividade
 <span>
 <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
-
 </span>
+
 ## Proximos Interesses
 <span>
 <img width="150px" src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png">
 <img width="100px" src="https://pngimg.com/uploads/php/php_PNG43.png">
-
 </span>
 
 
