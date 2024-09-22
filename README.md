@@ -9,7 +9,6 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijhonathan&theme=highcontrast&bg_color=000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=A020F0&text_color=FF6347)
 
-
 ## Habilidades
 
 ### Sistemas Operacionais
@@ -59,10 +58,7 @@
 <span>
 <img width="75px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png">
 
-</span><br>
-
-
-
+</span>
 ## Proximos Interesses
 <span>
 <img width="150px" src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png">
