@@ -1,9 +1,9 @@
 # Eli Jhonathan
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/eli-jhonathan-577a181a3/)
-<a target="_blank" href="https://www.linkedin.com/in/eli-jhonathan-577a181a3/">
+<a href="https://www.linkedin.com/in/eli-jhonathan-577a181a3/" target="_blank">
 <img width="50px" src="https://th.bing.com/th/id/R.ef2f3c0ea2d1116f00a5bc56b8c066ce?rik=GYaDoFewrbjMYA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f01%2fLogo-Linkedin.png&ehk=S4bpGdTYO0hvPM28u%2bFMX4ma7sBWXFdx85iEGZWSx1I%3d&risl=&pid=ImgRaw&r=0">
-
 </a>
+
 ## Habilidades
 
 ### Sistemas Operacionais
