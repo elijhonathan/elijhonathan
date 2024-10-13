@@ -54,4 +54,8 @@
 <img width="100px" src="https://pngimg.com/uploads/php/php_PNG43.png">
 <img width="80px" src="https://lh6.googleusercontent.com/lL8897gat-qHdewSnz-dxZ-mh-JkICqa8XqbdhvGcyYGeeInmZCFFnzub2CiysD0TzXW64w2OueRRYcywop2G41lfPHJSEk9WKkN0qtX3DAh9kft7IDwV-e8SwfccTsCEeNvzYlm">
 <img width="130px" src="https://pluspng.com/img-png/react-logo-png-react-js-logo-history-design-history-and-evolution-5500x3094.png">
+<img width="100px" src="https://devoncroft.com/wp-content/uploads/2019/08/AWS-Logo.png">
+<img width="130px" src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+
+  
 </span>
