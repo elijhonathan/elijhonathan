@@ -25,6 +25,7 @@
 <img width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <img width="50px" src="https://www.senet.nl/wp-content/uploads/2021/03/NET_Logo.png">
+<img width="100px" src="https://download.logo.wine/logo/Node.js/Node.js-Logo.wine.png"> 
 </span>
 
 ### Linguagens de Marcação & Estilo
