@@ -1,7 +1,9 @@
 # Eli Jhonathan
+<span>
 <a href="https://www.linkedin.com/in/eli-jhonathan-577a181a3/" target="_blank">
-<img width="150px" src="https://th.bing.com/th/id/R.ef2f3c0ea2d1116f00a5bc56b8c066ce?rik=GYaDoFewrbjMYA&riu=http%3a%2f%2f1000marcas.net%2fwp-content%2fuploads%2f2020%2f01%2fLogo-Linkedin.png&ehk=S4bpGdTYO0hvPM28u%2bFMX4ma7sBWXFdx85iEGZWSx1I%3d&risl=&pid=ImgRaw&r=0">
+<img width="100px" src="https://cdn.dribbble.com/users/147003/screenshots/1541997/linkedin_400_x_300_comp.gif">
 </a>
+</span>
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elijhonathan&layout=compact&bg_color=000&border_color=00FF00&title_color=A020F0&text_color=FFF)
