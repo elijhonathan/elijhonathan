@@ -8,9 +8,6 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=elijhonathan&layout=compact&bg_color=000&border_color=00FF00&title_color=A020F0&text_color=FFF)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elijhonathan&theme=highcontrast&bg_color=000&border_color=00FF00&show_icons=true&icon_color=00FF00&title_color=A020F0&text_color=FF6347)
-
 ## Habilidades
 
 ### Sistemas Operacionais
