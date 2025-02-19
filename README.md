@@ -20,7 +20,7 @@
 <span>
 <img width="50px" src="https://www.pngkit.com/png/full/101-1010012_download-png.png">
 <img width="50px" src="https://www.pngkit.com/png/full/534-5342172_c-language-course-c-logo.png">
-<img width="50px" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png">
+<img width="65px" src="https://logodix.com/logo/1803742.png">
 <img width="50px" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png">
 <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
 <img width="50px" src="https://www.senet.nl/wp-content/uploads/2021/03/NET_Logo.png">
