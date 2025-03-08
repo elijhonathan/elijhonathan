@@ -36,6 +36,7 @@
 
 ### Banco & Estrutura de Dados
 <span>
+<img width="100px" src="https://th.bing.com/th/id/R.b25bae44ff516c7dcc3eacdb14d2c499?rik=5rI66KCDGmJOgQ&riu=http%3a%2f%2fclipart.info%2fimages%2fccovers%2f1499955337microsoft-sql-server-logo-png.png&ehk=cFGE%2f%2fesEwqoP90RGgL2BquXFkUt7z4aF%2bLwj4hQ6GA%3d&risl=&pid=ImgRaw&r=0">
 <img width="100px" src="https://brandslogos.com/wp-content/uploads/images/large/mysql-logo-1.png">
 <img width="130px" src="https://logodix.com/logo/1593265.png">
 </span>
